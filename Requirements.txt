@@ -1,0 +1,6 @@
+streamlit>=1.36
+streamlit-geolocation>=0.0.10
+folium>=0.16
+streamlit-folium>=0.20
+fpdf2>=2.7
+Pillow>=10.0
